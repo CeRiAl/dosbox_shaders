@@ -3,6 +3,16 @@
 A collection of shaders for [Dugan's DosBox Fork](https://github.com/duganchen/dosbox/blob/master/ENHANCEMENTS.md).
 Each shader is licensed under the same terms as the one it was ported from.
 
+Clone it into your DosBox directory.
+
+On Linux:
+
+	git clone https://github.com/duganchen/dosbox_shaders.git ~/.dosbox/shaders
+
+On OS X:
+
+	git clone https://github.com/duganchen/dosbox_shaders.git ~/Library/Preferences/shaders
+
 The shaders are:
 
 * [5xBR\_Rounded](https://gitorious.org/bsnes/xml-shaders?p=bsnes:xml-shaders.git;a=blob;f=shaders/OpenGL/v1.0/5xBR+Rounded.shader;h=b3abe1b872ebc95f776726da7dec288a5766dff7;hb=HEAD)
@@ -11,6 +21,7 @@ The shaders are:
 * [crt-easymode](https://github.com/libretro/common-shaders/blob/master/crt/shaders/crt-easymode.cg)
 * [CRT-Hyllian-3D](http://ngemu.com/threads/links-and-guides-to-custom-shaders-for-petes-opengl2-plugin.76098/page-33#post-2431761)
 * [crt-lottes](https://github.com/libretro/common-shaders/blob/master/crt/shaders/crt-lottes.cg)
+* [FixingPixelArt](https://www.shadertoy.com/view/XsjSzR)
 * [GTU](https://github.com/aliaspider/interpolation-shaders/blob/master/GTU.OpenGL.shader)
 * [jinc2](https://github.com/libretro/common-shaders/blob/master/windowed/shaders/jinc2.cg)
 * [jinc2-sharp](https::w//github.com/libretro/common-shaders/blob/master/windowed/shaders/jinc2-sharp.cg)
